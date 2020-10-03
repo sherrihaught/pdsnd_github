@@ -1,6 +1,8 @@
 ### Date created
 August 31, 2020
 
+### Author
+Sherri Rogers
 
 ### Project Title
 Bike Share Analysis Udacity 
